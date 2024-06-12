@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @TMBoon
 - 
-- 👀 I’m a Web Designer currently trying to land his first job in Tech, which seems like a mountain to climb!
+- 👀 I’m a Web Developer working on solo projects! with Years if experience with PHP (my first language).
 - 
-- 🌱 Right now I'm learning React and Vue.js, but I want to become well versed in as many major languages as possible!
+- 🌱 Right now I'm broadening my knowledge in React and Nextjs, but I want to become well versed in as many major languages as possible!
 - 
-- 📫 I always want to talk about everything, @ me or throw and email my way at tom@websmithy.co.uk
+- 📫 I always want to talk about everything, @ me or throw and email my way at tomboon95@gmail.com
 
 <!---
 TMBoon/TMBoon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
